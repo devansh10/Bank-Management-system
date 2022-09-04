@@ -118,7 +118,7 @@ cin>>accountNumber;
  b.ShowAllAccounts();
  break;
  case 7: break;
- default: cout<<"\nEnter corret choice";
+ default: cout<<"\nEnter correct choice";
 exit(0);
  }
  }while(choice!=7);
